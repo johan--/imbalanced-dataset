@@ -34,7 +34,7 @@ gevent-websocket==0.9.3
 graphviz==0.4.2
 greenlet==0.4.5
 itsdangerous==0.24
-joblib==0.8.4
+joblib==1.2.0
 kombu==3.0.24
 matplotlib==1.4.2
 mock==1.0.1
